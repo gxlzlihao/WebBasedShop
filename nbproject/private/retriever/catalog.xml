@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.w3.org/2007/schema-for-xslt20.xsd" uri="www.w3.org/2007/schema-for-xslt20.xsd"/>
+    <system systemId="http://www.w3.org/2001/xml.xsd" uri="www.w3.org/2001/xml.xsd"/>
+    <system systemId="http://www.w3.org/2001/XMLSchema.xsd" uri="www.w3.org/2001/XMLSchema.xsd"/>
+    <system systemId="http://www.w3.org/" uri="www.w3.org/index.xml"/>
+    <system systemId="http://www.w3.org/TR/xslt" uri="www.w3.org/tr/xslt"/>
+</catalog>
